@@ -1,2 +1,11 @@
 # Calculator-on-TKinter
 Don't get it serious. This is just a simple calculator, made in Python using Graphic Interface TKinter. Good luck using it!
+
+<h1 align="center">Hi there, I'm <a href="https://inginirium.ru/" target="_blank">Inginirium Student</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student</h3>
+
+
+This is simple calculating maschine, using Programming Language Python with Additionable Graphic module TKinter.
+
+
